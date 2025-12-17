@@ -1,4 +1,4 @@
-telegram_token = ''
-authorized_ids = [123456789]
+telegram_token = '8223494259:AAH3tiAAVwA72BsZbW_a8XO6P6l6-dBhPFY'
+authorized_ids = [916150666]
 video_path = './mp4/'
 audio_path = './mp3/'
